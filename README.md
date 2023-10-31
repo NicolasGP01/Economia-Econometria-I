@@ -1,4 +1,4 @@
-# UNIVERSIDAD DEL QUINDÍO <img align="right" src="https://github.com/BlakeRMills/MetBrewer/blob/main/PaletteImages/Hex/MetBrewerHex.jpg" width=400>
+# UNIVERSIDAD DEL QUINDÍO <img align="right" src="https://github.com/NicolasGP01/Asesoria_ECO_I/blob/main/Imagines%20base/logo-universidad-del-quindio.png" width=400>
 Asesorias curso de Econmetría I - Programas estadísticos STATA, R y Python.
 
 ### Cloud
