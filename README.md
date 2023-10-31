@@ -2,8 +2,8 @@
 Asesorias curso de Econmetría I - Programas estadísticos STATA, R y Python.
 
 ### Cloud
-* [R](https://posit.cloud/)
-* []()
+* [R](https://posit.cloud/) Nube oficial de R
+* [Jupyter](https://jupyter.org/) Notebook es un aplicativo Web para servicios de computación ue soporta multiples lenguajes de programación.
 ---
 ### Google colaboratory: 
 Es una ayuda para la investigación que brinda un entorno notebook en el navegador, el cual soporta lenguajes de programación Python y R.
