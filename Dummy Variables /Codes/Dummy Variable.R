@@ -40,6 +40,7 @@ REG = lm( LNSAL ~ AGE  + CASADO , data = B )
 REG |> summary()
 
 
+EXP = haven::read_dta(file = "C:/Users/nicol.NICOLAS_GP/Downloads/EXPO_2005_2021.dta" , encoding = "UTF-8" ) |> data.frame()
 
 
 EMICRON = EMICRON |> mutate( N_EMPLEADOS = P3091 - 1 ) |> mutate(
